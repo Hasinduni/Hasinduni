@@ -19,17 +19,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Hasinduni\&theme=gruvbox\&margin-w=10)
-
----
-
-## 🚀 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasinduni\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🛠️ Featured Projects
 

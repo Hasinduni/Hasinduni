@@ -11,9 +11,9 @@
 
 ## 🛠️ Tech Stack
 
-* **Languages:** Java, JavaScript,.NET, SQL
+* **Languages:** Java, JavaScript,C#, SQL
 * **Frontend:** React, HTML, CSS, Bootstrap
-* **Backend:** Spring Boot, REST APIs
+* **Backend:** Spring Boot,.NET, REST APIs
 * **Database:** MySQL
 * **Tools:** Git, GitHub, Postman, IntelliJ IDEA, VS Code
 
